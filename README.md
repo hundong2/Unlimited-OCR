@@ -27,6 +27,10 @@
 <h3 align="center">Welcome the Era of One-shot Long-horizon Parsing.</h3>
 
 <p align="center">
+  English | <a href="README_kor.md">한국어</a> | <a href="guide/README.md">한국어 학습 가이드</a>
+</p>
+
+<p align="center">
     <img src="assets/Unlimited-OCR.png" width="1000" alt="Unlimited OCR overview" />
 </p>
 
